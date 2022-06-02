@@ -19,7 +19,7 @@ An application that converts any site you want, a message or a text directly int
 -TR
 * Öncelikle oluşturmak istediğimiz QR Code'un adresini yazıyoruz.
 * Daha sonra oluşturulan QR Code'u taratıyoruz ve anında veriye ulaşabiliyoruz.
-* 
+
 -EN
 * First of all, we write the address of the QR Code we want to create.
 * Then we scan the generated QR Code and we can access the data instantly.
