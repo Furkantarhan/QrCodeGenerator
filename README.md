@@ -1,4 +1,4 @@
-# QrCodeGenerator
+# Qr Code Generator
 
 -TR
 
